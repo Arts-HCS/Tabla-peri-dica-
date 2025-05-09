@@ -367,6 +367,9 @@ body{
     .table-content .right-section{
        display: none;
     }
+    .element-info .bottom-info{
+        display: none;
+    }
 
 }
 
